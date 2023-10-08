@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../download"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Kards10"
+	}
+}
